@@ -4,5 +4,5 @@
 . Learned about statistical (machine) learning algorithms by going through the book <a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a>. 
 
 
-- <a href="https://www.coursera.org/account/accomplishments/certificate/YD5T47E26PSS">https://www.coursera.org/account/accomplishments/certificate/YD5T47E26PSS</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/YD5T47E26PSS">AWS Cloud Technical Essentials</a>
 . Learned about the AWS global infrastructure and core AWS services for compute, storage, and database. 
